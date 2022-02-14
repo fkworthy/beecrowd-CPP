@@ -1,1 +1,1 @@
-# URI-Online-Judge-CPP
+# beecrowd-CPP
